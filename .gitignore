@@ -1,0 +1,4 @@
+include/mmtau2mhasconverterlib/version.h
+.DS_Store
+.vscode/
+build/
